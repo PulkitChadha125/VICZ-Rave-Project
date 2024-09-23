@@ -524,4 +524,4 @@ def main_strategy():
 
 while True:
     main_strategy()
-    time.sleep(2)
+    time.sleep(5)
