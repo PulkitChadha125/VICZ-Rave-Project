@@ -1,0 +1,3 @@
+Symbol,Quantity,Timeframe,TF_INT,EXPIERY,BASESYMBOL,EntryTime,ExitTime,strikestep,StrikeNumber,USEEXPIERY,TradeExpiery,AliceblueTradeExp,PRODUCT_TYPE,Votex_length,Sp_Period,Sp_Mul,UseSp,Segement,Fetchdelay
+CRUDEOILM24OCTFUT,1,FIVE_MINUTE,5,21-Oct-24,CRUDEOILM21OCT24,15:30,23:20,100,4,MONTHLY,21-Oct-24,21-Oct-24,I,14,10,3.0,FALSE,MCX,True
+Nifty Bank,15,THREE_MINUTE,3,25-Sep-24,BANKNIFTY,9:16,15:18,100,4,MONTHLY,25-Sep-24,25-Sep-24,I,14,10,3.0,FALSE,NSE,True
